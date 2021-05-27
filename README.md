@@ -1,5 +1,5 @@
 ## KITTY CROSSING
-![Screenshot](./screenshot.png "Game preview")
+![Screenshot](https://i.imgur.com/dGFdIg9.png "Game preview")
 A Frogger reskin (For cat lovers) Basic game demo. Fully playable with scoreboard and moving objects.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
